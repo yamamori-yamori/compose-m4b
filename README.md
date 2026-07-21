@@ -1,7 +1,7 @@
 # チャプター編集Audiobook Editor (Windows版)
-## 作者：やまもりやもり  https://yamamori-yamori.github.io/mypage/
+- 作者: [やまもりやもり](https://yamamori-yamori.github.io/mypage/)
 (copyright 2026 やまもりやもり)
-
+  
 ## ■■ どんなアプリ？ ■■
 
 * オーディオブックのチャプターを挿入削除入れ替えできます。他のファイルからも入れ替えが出来ます。
