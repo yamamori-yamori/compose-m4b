@@ -1,5 +1,5 @@
 # チャプター編集Audiobook Editor (Windows版)
-## 作者：やまもりやもり  https://x.com/yamamori_yamori
+## 作者：やまもりやもり  https://yamamori-yamori.github.io/mypage/
 (copyright 2026 やまもりやもり)
 
 ## ■■ どんなアプリ？ ■■
