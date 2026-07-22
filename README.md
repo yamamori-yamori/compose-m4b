@@ -19,7 +19,7 @@
 
 ## ■■ 使い方 ■■
 
-- 右の「Releases」よりダウンロードしたzipを開いて、適当なフォルダに置く。
+- [こちら](https://github.com/yamamori-yamori/compose-m4b/raw/refs/heads/main/%E3%83%81%E3%83%A3%E3%83%97%E3%82%BF%E3%83%BC%E7%B7%A8%E9%9B%86Audiobook%20Editor.7z)よりダウンロードしたzipを開いて、適当なフォルダに置く。
 - 「チャプター編集Audiobook Editor.exe」を実行。
 - 最初にM4B形式のオーディオブックを一つ読み込ませます。
 
