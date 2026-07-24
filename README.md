@@ -1,6 +1,6 @@
 # チャプター編集Audiobook Editor (Windows版)
 
-* 作者: [やまもりやもり](https://yamamori-yamori.github.io/mypage/)
+作者: [やまもりやもり](https://yamamori-yamori.github.io/mypage/)  
 (copyright 2026 やまもりやもり)
 
 ## ■■ どんなアプリ？ ■■
@@ -22,7 +22,7 @@
 
 ## ■■ 使い方 ■■
 
-* [こちら](https://github.com/yamamori-yamori/compose-m4b/raw/refs/heads/main/チャプター編集Audiobook%20Editor.7z)よりダウンロードしたzipを開いて、適当なフォルダに置く。
+* [こちら](https://github.com/yamamori-yamori/compose-m4b/raw/refs/heads/main/チャプター編集Audiobook%20Editor.7z)よりダウンロードした7zipを開いて、適当なフォルダに置く。
 * 「チャプター編集Audiobook Editor.exe」を実行。
 * 最初にM4B形式のオーディオブックを一つ読み込ませます。
 
@@ -65,7 +65,7 @@
 
 
 
-\---
+---
 
 リリースノート
 
